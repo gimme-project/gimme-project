@@ -1,0 +1,3 @@
+"","significant.path","subgroups","mean.difference","upper.CI","lower.CI","p.adj","F.test.significance"
+"1","content-->contentlag","2-1",-0.130496782539679,-0.21470825634019,-0.0462853087391684,0.00155586807220531,"s"
+"2","accepted-->acceptedlag","3-1",-0.198831383593594,-0.391775426172588,-0.00588734101459995,0.0422216583380475,"s"
